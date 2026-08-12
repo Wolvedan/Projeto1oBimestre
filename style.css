@@ -15,4 +15,6 @@ line-height: 1.5;
 /*CABEÇALHO, BANNER E PERFIL*/
 .cabecalho{
     background-color: bisque;
+    border-bottom: 2px solid #96bbd0;
+    padding-bottom: 20px;queor a
 }
