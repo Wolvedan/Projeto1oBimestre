@@ -15,7 +15,7 @@ body {
 /* IMAGEM DE CAPA (BANNER) */
 .img-banner {
     width: 100%;             /* Ocupa toda a largura da tela */
-    height: 90px;           /* Altura fixa */
+    height: 300px;           /* Altura fixa */
     object-fit: cover;       /* Impede que a imagem fique esticada ou esmagada */
 }
 
