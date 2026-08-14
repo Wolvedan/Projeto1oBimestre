@@ -7,14 +7,14 @@ body {
 
 /* ESTRUTURA DO CABEÇALHO */
 .cabecalho {
-    background-color: #1e293b;
-    border-bottom: 3px solid #38bdf8; /* Linha de destaque azul */
+    background-color: #0761f2;
+    border-bottom: 3px solid #fdfd04; /* Linha de destaque azul */
     padding-bottom: 30px;
 }
 
 /* IMAGEM DE CAPA (BANNER) */
 .img-banner {
-    width: 100%;             /* Ocupa toda a largura da tela */
+    width: 50%;             /* Ocupa toda a largura da tela */
     height: 180px;           /* Altura fixa */
     object-fit: cover;       /* Impede que a imagem fique esticada ou esmagada */
 }
